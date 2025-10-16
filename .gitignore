@@ -1,0 +1,18 @@
+﻿
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+
+# Data and models
+pest_detector.h5
+dataset/
+
+# Logs
+*.csv
+
+# Images and test data
+test_leaf.jpg
+
+# VSCode
+.vscode/
+

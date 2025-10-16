@@ -1,1 +1,3 @@
-# pest-detect-app
+﻿# pest-detect-app
+
+Repository for Crop Pest Identification
