@@ -1,7 +1,6 @@
 # Smart Crop Pest Identifier
 
-![Pest Identifier Banner](https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/banner.png) 
-*(Replace with an actual banner image link if you create one)*
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/3bd3475b-f4c6-436f-a76f-05c069bb186c" />
 
 ## 🌿 Project Overview
 
@@ -52,8 +51,10 @@ Before you begin, ensure you have the following installed:
     pip install -r requirements.txt
     ```
     *(You'll need to create a `requirements.txt` file. See the "Dependencies" section below.)*
-
-4.  **Prepare the Dataset:**
+    **OR in Local Machine**
+    ```bash
+    pip install tensorflow keras opencv-python pillow scikit-learn customtkinter ```
+5.  **Prepare the Dataset:**
     The application expects a dataset structured as follows for training:
     ```
     dataset/
