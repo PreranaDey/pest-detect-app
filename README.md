@@ -51,10 +51,11 @@ Before you begin, ensure you have the following installed:
     pip install -r requirements.txt
     ```
     *(You'll need to create a `requirements.txt` file. See the "Dependencies" section below.)*
-    **OR in Local Machine**
+    
+5. **OR in Local Machine**
     ```bash
     pip install tensorflow keras opencv-python pillow scikit-learn customtkinter ```
-5.  **Prepare the Dataset:**
+6.  **Prepare the Dataset:**
     The application expects a dataset structured as follows for training:
     ```
     dataset/
